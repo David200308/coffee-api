@@ -4,7 +4,7 @@
 
 ## Coffee API --> A query API for Coffee Types & Coffee Content
 
----
+
 
 ### Programming Language:
 
@@ -23,3 +23,8 @@ cd coffee-api
 python3 api.py
 ```
 
+
+
+
+
+***Reminder:** The data in the JSON file will be stored in SQL later*
