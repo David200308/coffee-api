@@ -1,0 +1,72 @@
+{
+"coffee":[
+    {
+        "Name": "Black",
+        "Content": "Just coffee"
+    },
+    {
+        "Name": "Latte",
+        "Content": "Espresso + Steamed milk"
+    },
+    {
+        "Name": "Cappuccino",
+        "Content": "Espresso + Steamed milk + Foam"
+    },
+    {
+        "Name": "Americano",
+        "Content": "Espresso + Hot water"
+    },
+    {
+        "Name": "Espresso",
+        "Content": "1 oz Espresso"
+    },
+    {
+        "Name": "Doppio",
+        "Content": "2oz Espresso"
+    },
+    {
+        "Name": "Cortado",
+        "Content": "1oz Espresso + 1 oz Steamed milk"
+    },
+    {
+        "Name": "Red Eye",
+        "Content": "Coffee + Espresso"
+    },
+    {
+        "Name": "Galão",
+        "Content": "Espresso + Foamed milk"
+    },
+    {
+        "Name": "Lungo",
+        "Content": "Long pulled espresso"
+    },
+    {
+        "Name": "Macchiato",
+        "Content": "Espresso shot + Foam"
+    },
+    {
+        "Name": "Mocha",
+        "Content": "Espresso + Chocolate + Steamed milk"
+    },
+    {
+        "Name": "Ristretto",
+        "Content": "Short pulled espresso"
+    },
+    {
+        "Name": "Flat White",
+        "Content": "Espresso + Steamed milk"
+    },
+    {
+        "Name": "Affogato",
+        "Content": "Espresso + Ice cream"
+    },
+    {
+        "Name": "Café au Lait",
+        "Content": "Coffee + Steamed milk"
+    },
+    {
+        "Name": "Irish",
+        "Content": "Coffee + Whiskey + Sugar + Cream"
+    }
+]
+}
