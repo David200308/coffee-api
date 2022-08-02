@@ -27,9 +27,10 @@ def request_page():
     #         content = i["Content"]
 
     data = get_data(coffee_query)
-    content_list = data["Content"].values
-    for x in content_list:
-        content = x
+    if bool(data == "null"):
+        content = "null"
+    else:
+        content = data
 
     data_set = {'State': 'Request', 'Coffee': f'{coffee_query}', 'Coffee Content': f'{content}', 'Timestamp': time.ctime(time.time())}
     json_dump = json.dumps(data_set)
