@@ -24,7 +24,8 @@
 - json
 - time
 
-### C. Usage:
+### C. Run Code:
+
 ```bash
 git clone https://github.com/David200308/coffee-api.git
 cd coffee-api
@@ -32,6 +33,25 @@ cd coffee-api
 # check the port & URL
 python3 api.py
 ```
+
+
+
+### D. API Usage:
+
+```
+// For Run on Localhost or 127.0.0.1:
+// For example to get Latte detail
+
+http://127.0.0.1/coffee/?coffee=Latte
+
+//return -->
+{"State": "Request", "Coffee": "Latte", "Coffee Content": "Espresso + Steamed milk", "Timestamp": "Tue Aug 2 10:49:01 2022"}
+
+```
+
+
+
+
 
 
 
