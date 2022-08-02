@@ -32,7 +32,7 @@ def request_page():
     else:
         content = data
 
-    data_set = {'State': 'Request', 'Coffee': f'{coffee_query}', 'Coffee Content': f'{content}', 'Timestamp': time.ctime(time.time())}
+    data_set = {'State': 'Requested', 'Coffee': f'{coffee_query}', 'Coffee Content': f'{content}', 'Timestamp': time.ctime(time.time())}
     json_dump = json.dumps(data_set)
 
     return json_dump
