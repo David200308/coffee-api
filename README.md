@@ -35,7 +35,7 @@
 ```bash
 git clone https://github.com/David200308/coffee-api.git
 cd coffee-api
-# import the JSON file to MongoDB, and open MongoDB
+# import the CSV file to MongoDB, and open MongoDB
 # check the port & URL
 python3 api.py
 ```
